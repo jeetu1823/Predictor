@@ -1,4 +1,6 @@
 # Predictor
+https://clients.cloudclusters.io/
+for the database 
 Simple model is used to for the prediction but the data entered by the user is saved on SQL database 
 
 When user enters the data and hit the predict button then it will show the output and data is saved on sql database along with predicted value .
